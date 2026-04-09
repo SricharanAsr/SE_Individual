@@ -89,7 +89,7 @@ As this is Sprint 1 (50% complete):
 
 
 This is a **client-side only** implementation using localStorage. All data remains on your device. For production use, consider implementing:
-- End-to-end encryption
+- End-to-end encryption.
 - Secure cloud backup
 - Master password hashing with PBKDF2/Argon2
 - Biometric authentication
