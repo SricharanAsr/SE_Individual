@@ -43,7 +43,7 @@ This version includes the essential features needed for a functional password va
 
 ## 📦 Installation & Setup
 
-1. **Clone the repository**
+1. **Clone repository**
    ```bash
    git clone https://github.com/Guru006-Dev/Zero-vault.git
    cd Zero-vault
