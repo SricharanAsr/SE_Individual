@@ -13,7 +13,7 @@ This version includes the essential features needed for a functional password va
 - **Category Organization**: Organize entries by categories (Work, Personal, Finance, Social, Entertainment, Shopping)
 - **Favorites System**: Mark important entries as favorites for quick access
 - **Search & Filter**: Real-time search across entries with category filtering
-
+.
 #### Security Features
 - **Password Strength Analysis**: Real-time strength indicators with color-coded feedback
 - **Breach Detection**: Identifies commonly compromised passwords
