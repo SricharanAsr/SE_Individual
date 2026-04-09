@@ -21,7 +21,7 @@ This version includes the essential features needed for a functional password va
 - **Auto-Lock Timer**: Configurable inactivity timeout (5-60 minutes)
 - **Clipboard Auto-Clear**: Automatic clipboard clearing after password copy (10-120 seconds)
 
-#### User Experience
+#### User Experience Features
 - **Dark Glass UI**: Premium glassmorphism design with backdrop blur effects
 - **Responsive Layout**: Fully responsive design for desktop and mobile
 - **Smooth Animations**: Framer Motion powered transitions and micro-interactions
