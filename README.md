@@ -6,7 +6,7 @@ A secure, zero-knowledge password manager built with modern web technologies. Th
 
 This version includes the essential features needed for a functional password vault:
 
-### ✅ Implemented Features
+### ✅ Implemented Features..
 
 #### Core Vault Functionality implemented.
 - **Secure Entry Management**: Add, edit, and delete password entries
