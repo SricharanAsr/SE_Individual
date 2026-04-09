@@ -32,7 +32,7 @@ This version includes the essential features needed for a functional password va
   - `Ctrl+L` - Lock vault
   - `Ctrl+,` - Settings
 
-## 🚀 Technology Stack Used
+## 🚀 Technology Stack Used.
 
 - **React 18 + TypeScript**: Type-safe component architecture
 - **Vite**: Lightning-fast build tool and dev server
