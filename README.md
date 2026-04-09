@@ -14,7 +14,7 @@ This version includes the essential features needed for a functional password va
 - **Favorites System**: Mark important entries as favorites for quick access
 - **Search & Filter**: Real-time search across entries with category filtering
 .
-#### Security Features Implemented
+#### Security Features Implemented.
 - **Password Strength Analysis**: Real-time strength indicators with color-coded feedback
 - **Breach Detection**: Identifies commonly compromised passwords
 - **Security Challenge**: Optional security question/answer for sensitive entries
