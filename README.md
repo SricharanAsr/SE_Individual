@@ -49,7 +49,7 @@ This version includes the essential features needed for a functional password va
    cd Zero-vault
    ```
 
-2. **Install dependencies**
+2. **Install dependencies needed**
    ```bash
    npm install
    ```
