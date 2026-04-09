@@ -1,4 +1,4 @@
-# Zero-Vault  Sprint 1 (50% Implementation)...
+# Zero-Vault  Sprint 1 (50% Implementation)
 
 A secure, zero-knowledge password manager built with modern web technologies. This is the **Sprint 1 version** representing approximately 50% of the planned features, focusing on core functionality and foundational UI/UX.
 
