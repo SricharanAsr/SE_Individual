@@ -85,7 +85,8 @@ As this is Sprint 1 (50% complete):
 - No browser extension (mockup only in Sprint 2)
 - Limited password history tracking
 
-## 🛡️ Security Note
+## 🛡️ Security Note points
+
 
 This is a **client-side only** implementation using localStorage. All data remains on your device. For production use, consider implementing:
 - End-to-end encryption
